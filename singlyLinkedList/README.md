@@ -18,7 +18,7 @@ class Node<T> {
 }
 ```
 
-### Singly Linked List Class
+# Singly Linked List Class
 ```java
 public class SinglyLinkedList<T> {
 	private Node<T> head;
