@@ -6,3 +6,5 @@ _I have change this repo to 30 days of code_
 ### Day 1
     - Singly Linked List
     - Doubly Linked List
+### Day 2
+    - Binary Search
