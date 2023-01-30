@@ -48,7 +48,3 @@ class Solution {
         return sum;
   }
 }
-
-
-Runtime: 16 ms, faster than 6.81% of Java online submissions for Roman to Integer.
-Memory Usage: 39.7 MB, less than 21.22% of Java online submissions for Roman to Integer.
